@@ -30,4 +30,3 @@ A=[23,12,67,22,33,45]
 result=selection_sort(A)
 
 print("The sorted result using selection sort is {}".format(result))
-        
